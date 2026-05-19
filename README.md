@@ -6,6 +6,16 @@ This repository contains the Power BI dashboard project completed during the Tat
 
 The project focused on analyzing business sales performance, customer revenue trends, and country-wise demand patterns using Power BI. The analysis involved cleaning and transforming raw data using Power Query and creating executive-level dashboards to communicate actionable business insights.
 
+## Business Questions
+
+### CEO Questions
+1. What are the monthly revenue trends in 2011?
+2. Which countries show the highest product demand for expansion opportunities?
+
+### CMO Questions
+1. Which countries generate the highest revenue and quantity sold?
+2. Who are the top 10 customers by revenue?
+
 ## Data Cleaning
 
 Data cleaning was performed in **Power BI Power Query** based on the project requirements.
