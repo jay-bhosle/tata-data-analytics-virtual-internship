@@ -15,10 +15,7 @@ Data cleaning was performed in **Power BI Power Query** based on the project req
 - Filtered out records where `Quantity < 1`.
 - Removed rows where `UnitPrice <= 0`.
 - Converted `InvoiceDate` to Date/Time format.
-- Created a `Revenue` column using:
-
-```text
-Revenue = Quantity × UnitPrice
+- Created a `Revenue` column using: Revenue = Quantity × UnitPrice
 
 ---
 <img width="1920" height="1080" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/0a6c91bb-01b5-428e-a440-7b3075b77e38" />
