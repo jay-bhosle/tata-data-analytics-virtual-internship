@@ -8,13 +8,17 @@ The project focused on analyzing business sales performance, customer revenue tr
 
 ## Business Questions
 
-### CEO Questions
-1. What are the monthly revenue trends in 2011?
-2. Which countries show the highest product demand for expansion opportunities?
+Question 1 — CEO
+The CEO wanted to analyze the monthly revenue trend for 2011 to identify seasonal patterns and support forecasting.
 
-### CMO Questions
-1. Which countries generate the highest revenue and quantity sold?
-2. Who are the top 10 customers by revenue?
+Question 2 — CMO
+The CMO wanted to view the top 10 countries by revenue and quantity sold, excluding the United Kingdom.
+
+Question 3 — CMO
+The CMO wanted to identify the top 10 customers by revenue to focus on high-value customer retention.
+
+Question 4 — CEO
+The CEO wanted to understand product demand across different countries/regions to identify expansion opportunities outside the United Kingdom.
 
 ## Data Cleaning
 
