@@ -7,6 +7,7 @@ This repository contains the Power BI dashboard project completed during the Tat
 The project focused on analyzing business sales performance, customer revenue trends, and country-wise demand patterns using Power BI. The analysis involved cleaning and transforming raw data using Power Query and creating executive-level dashboards to communicate actionable business insights.
 
 ---
+<img width="1920" height="1080" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/0a6c91bb-01b5-428e-a440-7b3075b77e38" />
 
 # Business Questions Solved
 
@@ -25,6 +26,7 @@ Analyzed monthly revenue performance to identify seasonal sales patterns and rev
 - Helped forecast seasonal demand and revenue growth opportunities
 
 ---
+<img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/e9a0a7cb-504c-4e66-8a22-47ab2c4f2d29" />
 
 ## 2. Country-wise Revenue & Quantity Analysis
 
@@ -41,6 +43,7 @@ Compared product quantity sold and revenue generated across countries.
 - Supported regional sales and marketing prioritization
 
 ---
+<img width="1920" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/5fae1ab6-bf79-441e-9b42-876755b8e4a1" />
 
 ## 3. Top Customer Revenue Analysis
 
@@ -56,6 +59,7 @@ Performed customer-level revenue analysis to identify high-value customers.
 - Helped identify high-value customer segments for targeted engagement
 
 ---
+<img width="1920" height="1080" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/6475afd9-cea3-426b-aec6-1e890957c420" />
 
 ## 4. Global Quantity Distribution Analysis
 
