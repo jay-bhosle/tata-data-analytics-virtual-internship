@@ -1,7 +1,3 @@
-# Tata Group Data Analytics Virtual Experience Program
-
-This repository contains the Power BI dashboard project completed during the Tata Group Data Analytics & Visualization Virtual Experience Program hosted on Forage.
-
 ## Project Overview
 
 The project focused on analyzing business sales performance, customer revenue trends, and country-wise demand patterns using Power BI. The analysis involved cleaning and transforming raw data using Power Query and creating executive-level dashboards to communicate actionable business insights.
